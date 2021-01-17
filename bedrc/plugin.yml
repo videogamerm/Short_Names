@@ -1,0 +1,6 @@
+---
+name: bedrc
+version: 0.0.1
+main: videogamerm\bedrc\Main
+api: 3.17.2
+...
